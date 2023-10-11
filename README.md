@@ -6,7 +6,7 @@ Na zajęciach wpadliśmy na pomysł gry wyścigowej ze zbijaniem (RACE) (jak w c
 
 > git clone https://github.com/s22625-pj/nai-class-1
 
-> cd nai-game
+> cd nai-class-1
 
 > pip install easyAI 
 
